@@ -57,7 +57,6 @@ The dataset contains Apple Fitness activity records with multiple fitness-relate
 - 🎨 **Seaborn**
 - 📈 **Plotly**
 - ☁️ **Google Colab**
-- 📓 **Jupyter Notebook**
 
 ---
 
