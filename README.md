@@ -14,7 +14,7 @@ The analysis focuses on important activity measures such as:
 - 📏 Distance
 - 🔥 Energy Burned
 - 🏢 Flights Climbed
-- 🕒 Activity over time
+- 🕒 Activity Over Time
 
 The project uses Python-based data analysis and visualization techniques to transform raw fitness data into easy-to-understand insights.
 
@@ -62,26 +62,6 @@ The dataset contains Apple Fitness activity records with multiple fitness-relate
 
 ## 🔄 Project Workflow
 
-```text
-📥 Data Collection
-        ↓
-🧹 Data Loading & Preparation
-        ↓
-🔍 Data Exploration
-        ↓
-📊 Data Analysis
-        ↓
-📈 Data Visualization
-        ↓
-💡 Insights & Interpretation
-        ↓
-🏁 Conclusion
-
-
----
-
-## 🔄 Project Workflow
-
 📥 **Data Collection**  
 ↓  
 🧹 **Data Loading & Preparation**  
@@ -120,6 +100,43 @@ Overall, this project demonstrates how **Python and data visualization technique
 
 ---
 
+## 📊 Analysis & Visualizations
+
+The project uses different visualizations to explore fitness activity patterns and trends.
+
+### 📈 Step Count Over Time
+
+A time-series visualization is used to understand how step counts change over different activity periods.
+
+### 🎻 Fitness Metrics Distribution
+
+A violin plot is used to examine the distribution of major fitness metrics, including:
+
+- 👣 Step Count
+- 📏 Distance
+- 🔥 Energy Burned
+- 🏢 Flights Climbed
+
+### 📊 Fitness Activity Comparison
+
+Different fitness metrics are analyzed and compared to understand variations in overall physical activity.
+
+---
+
+## 💡 Insights
+
+The analysis helps identify patterns and variations in fitness activity, including:
+
+- 👣 Changes in step count over time
+- 📏 Variations in distance covered
+- 🔥 Differences in energy burned
+- 🏢 Changes in flights climbed
+- 📈 Overall activity trends
+
+These visualizations make the fitness data easier to explore and understand.
+
+---
+
 ## 📁 Repository Contents
 
 - 📓 `Apple_Fitness_Analysis.ipynb` — Analysis notebook
@@ -127,3 +144,26 @@ Overall, this project demonstrates how **Python and data visualization technique
 - 📖 `README.md` — Project documentation
 
 ---
+
+## ▶️ How to Run
+
+1. Open `Apple_Fitness_Analysis.ipynb` in **Google Colab** or **Jupyter Notebook**.
+2. Upload `Apple-Fitness-Data.csv` to the notebook environment if required.
+3. Run the notebook cells from top to bottom.
+4. Explore the generated analysis and visualizations.
+
+---
+
+## 📌 Project Structure
+
+Apple-Fitness-Analysis/
+│
+├── 📓 Apple_Fitness_Analysis.ipynb
+├── 📊 Apple-Fitness-Data.csv
+└── 📖 README.md
+
+---
+
+## 📝 Summary
+
+> 🍎 **Apple Fitness Analysis** demonstrates how Python-based data analysis and visualization can be used to explore fitness activity data, identify patterns, and communicate insights clearly.
