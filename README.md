@@ -64,12 +64,36 @@ The dataset contains Apple Fitness activity records with multiple fitness-relate
 
 ```text
 📥 Data Collection
-       ↓
-🧹 Data Loading & Exploration
-       ↓
-🔍 Data Analysis
-       ↓
-📊 Data Visualization
-       ↓
+        ↓
+🧹 Data Loading & Preparation
+        ↓
+🔍 Data Exploration
+        ↓
+📊 Data Analysis
+        ↓
+📈 Data Visualization
+        ↓
 💡 Insights & Interpretation
+        ↓
+🏁 Conclusion
+
+
+## 🏁 Conclusion
+
+This project analyzes Apple Fitness activity data using Python and
+visualization techniques.
+
+The analysis explores step count, distance, energy burned, flights
+climbed, and activity trends over time.
+
+The visualizations help identify patterns and variations in fitness
+activity and make the data easier to understand.
+
+---
+
+## 📁 Repository Contents
+
+- 📓 `Apple_Fitness_Analysis.ipynb` — Analysis notebook
+- 📊 `Apple-Fitness-Data.csv` — Dataset
+- 📖 `README.md` — Project documentation
 
